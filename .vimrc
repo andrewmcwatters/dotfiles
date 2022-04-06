@@ -17,6 +17,7 @@ if v:progname =~? "evim"
 endif
 
 " Get the defaults that most users want.
+unlet! skip_defaults_vim
 source $VIMRUNTIME/defaults.vim
 
 if has("vms")
