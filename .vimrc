@@ -55,3 +55,4 @@ endif
 set number
 set ruler
 set list
+set listchars=eol:¬,tab:»\ ,space:·
