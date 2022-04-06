@@ -54,3 +54,4 @@ endif
 
 set number
 set ruler
+set list
