@@ -53,3 +53,4 @@ if has('syntax') && has('eval')
 endif
 
 set number
+set ruler
