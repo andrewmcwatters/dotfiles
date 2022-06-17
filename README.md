@@ -4,6 +4,9 @@
 Make `vim` look like BBEdit, Sublime Text, Atom, Visual Studio Code, etc.
 <img width="682" alt="Screen Shot 2022-04-22 at 12 50 19 PM" src="https://user-images.githubusercontent.com/487078/164784618-f96ae31b-9bf6-41d5-8ba3-fa67c23f8249.png">
 
+### `.zshrc`
+Define _EDITOR_ environment variable as `code --wait` for Visual Studio Code.
+
 ## License
 MIT License
 
